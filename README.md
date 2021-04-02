@@ -1,2 +1,3 @@
 # turtle
-Using the turtle library.
+
+A small example.

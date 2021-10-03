@@ -1,3 +1,4 @@
 # turtle
+I drew a mini picture using turtle library.
 
-A small example.
+This is a default library that is on python already.
